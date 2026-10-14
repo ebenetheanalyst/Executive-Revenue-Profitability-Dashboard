@@ -4,7 +4,7 @@
 
 *Project 1 of 9 built on the PayBridge dataset. Tools: SQL Server, Python, Power BI.*
 
-![Executive-Revenue-Profitability-Dashboard](/Executive Revenue & Profitability.jpg)
+![Executive-Revenue-Profitability-Dashboard](Executive Revenue & Profitability.jpg)
 <!-- Add your finished dashboard screenshot to the images folder as dashboard.png -->
 
 > **About this project.** PayBridge NG is a fictional company and all data is synthetic. Some patterns were deliberately built into the simulation so the analysis has something to find. The purpose is to demonstrate the method: framing a business problem, building a trustworthy dataset, analysing it, and recommending action.

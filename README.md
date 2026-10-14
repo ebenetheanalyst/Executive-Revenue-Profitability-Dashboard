@@ -121,21 +121,5 @@ DAX measures and the colour theme are in the `powerbi/` folder.
 - The analysis shows what changed and where, not proof of cause. Estimates rest on the stated assumptions
 - New-city results rest on small volumes and short history
 
-## 9. Reproduce it
 
-1. Generate the data with `generator/generate.py`
-2. Create and load the database with `sql/01_create_schema.sql` and `sql/02_load_data.sql`
-3. Open the Power BI report in `powerbi/` and refresh it from your SQL Server instance
-
-## 10. Repository structure
-
-```
-├── README.md
-├── docs/        problem statement brief, data dictionary
-├── sql/         schema and load scripts
-├── generator/   data generator
-├── powerbi/     report, DAX measures, theme
-└── images/      dashboard screenshots
-```
-
-**Author:** Sanya Ajibola Ebenezer | [LinkedIn](#) <!-- add your link -->
+**Author:** Sanya Ajibola Ebenezer | [LinkedIn](https://www.linkedin.com/in/ajibola-sanya-119a91384/) <!-- add your link -->

@@ -2,8 +2,9 @@
 
 **Why is profit not keeping pace with growth?** A year-over-year performance review for PayBridge NG, a fictional Nigerian payments company.
 
-*Project built on the PayBridge dataset. Tools: SQL Server, Python, Power BI.*
+*Project 1 of 9 built on the PayBridge dataset. Tools: SQL Server, Python, Power BI.*
 
+![Executive-Revenue-Profitability-Dashboard](/Executive Revenue & Profitability.jpg)
 <!-- Add your finished dashboard screenshot to the images folder as dashboard.png -->
 
 > **About this project.** PayBridge NG is a fictional company and all data is synthetic. Some patterns were deliberately built into the simulation so the analysis has something to find. The purpose is to demonstrate the method: framing a business problem, building a trustworthy dataset, analysing it, and recommending action.
@@ -114,5 +115,22 @@ DAX measures and the colour theme are in the `powerbi/` folder.
 - Two years of data, so seasonality and trend are hard to separate
 - The analysis shows what changed and where, not proof of cause. Estimates rest on the stated assumptions
 - New-city results rest on small volumes and short history
+
+## 9. Reproduce it
+
+1. Generate the data with `generator/generate.py`
+2. Create and load the database with `sql/01_create_schema.sql` and `sql/02_load_data.sql`
+3. Open the Power BI report in `powerbi/` and refresh it from your SQL Server instance
+
+## 10. Repository structure
+
+```
+├── README.md
+├── docs/        problem statement brief, data dictionary
+├── sql/         schema and load scripts
+├── generator/   data generator
+├── powerbi/     report, DAX measures, theme
+└── images/      dashboard screenshots
+```
 
 **Author:** Sanya Ajibola Ebenezer | [LinkedIn](#) <!-- add your link -->

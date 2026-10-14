@@ -4,11 +4,10 @@
 
 *Project 1 of 9 built on the PayBridge dataset. Tools: SQL Server, Python, Power BI.*
 
-<img width="2575" height="1357" alt="Executive Revenue   Profitability" src="https://github.com/user-attachments/assets/74d4a601-8f03-49a7-8835-162143d383bb" />
-##Dashboard
+<img width="1600" height="820" alt="Executive Revenue   Profitability" src="https://github.com/user-attachments/assets/74d4a601-8f03-49a7-8835-162143d383bb" />
+
 
 <img width="908" height="521" alt="Screenshot 2026-10-13 140052" src="https://github.com/user-attachments/assets/470a89c8-1362-4a43-ab14-a08cb2d01fa3" />
-##Data Model
 <!-- Add your finished dashboard screenshot to the images folder as dashboard.png -->
 
 > **About this project.** PayBridge NG is a fictional company and all data is synthetic. Some patterns were deliberately built into the simulation so the analysis has something to find. The purpose is to demonstrate the method: framing a business problem, building a trustworthy dataset, analysing it, and recommending action.
